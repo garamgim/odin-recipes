@@ -1,0 +1,44 @@
+html {
+    align-content: center;
+}
+
+body {
+    background-color: #E4D0D0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+h1,
+h2 {
+    color: white;
+    background-color: #867070;
+}
+
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    border: B4E4FF;
+    background-color: #B4E4FF;
+    border-radius: 50%;
+    line-height: 150%;
+}
+
+a:hover {
+    color: white;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
